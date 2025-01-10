@@ -4,7 +4,7 @@ This is where you can find actions and [reusable workflows](https://docs.github.
 
 ### Reusable Workflows
 
-* [Reusable Workflows](https://github.com/bccacions/reusable_workflows)
+* [Reusable Workflows](https://github.com/bccactions/reusable_workflows)
 
 ### Actions
-* [delete-artifact](https://github.com/bccacions/delete-artifact)
+* [delete-artifact](https://github.com/bccactions/delete-artifact)
